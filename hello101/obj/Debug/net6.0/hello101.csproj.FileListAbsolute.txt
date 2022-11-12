@@ -1,0 +1,15 @@
+C:\Users\79524\Desktop\git_edige1\example\hello101\bin\Debug\net6.0\hello101.exe
+C:\Users\79524\Desktop\git_edige1\example\hello101\bin\Debug\net6.0\hello101.deps.json
+C:\Users\79524\Desktop\git_edige1\example\hello101\bin\Debug\net6.0\hello101.runtimeconfig.json
+C:\Users\79524\Desktop\git_edige1\example\hello101\bin\Debug\net6.0\hello101.dll
+C:\Users\79524\Desktop\git_edige1\example\hello101\bin\Debug\net6.0\hello101.pdb
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\hello101.csproj.AssemblyReference.cache
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\hello101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\hello101.AssemblyInfoInputs.cache
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\hello101.AssemblyInfo.cs
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\hello101.csproj.CoreCompileInputs.cache
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\hello101.dll
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\refint\hello101.dll
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\hello101.pdb
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\hello101.genruntimeconfig.cache
+C:\Users\79524\Desktop\git_edige1\example\hello101\obj\Debug\net6.0\ref\hello101.dll
